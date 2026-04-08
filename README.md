@@ -9,3 +9,5 @@ createfile -> equivalente a echo. >
 deploy -> builda e da deploy em um projeto javascript que use pnpm
 
 gitsetup -> inicializa git em diretorio, recebe como parametro a URL de algum repo remoto, e ja faz todo o setup basico de commit inicial
+
+clue -> mostra guia simplificado de scripts
