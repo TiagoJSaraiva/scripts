@@ -1,11 +1,11 @@
-## Para usar:
-Adicione este diretório em **Path** nas variáveis de ambiente
-
-## Guia simplificado de scripts
+Guia simplificado de scripts
 
 amend -> commita na main com flag --amend
-commit -> comita na main com mensagem e recebe mensagem de parâmetro
-createfile -> equivalente a ```echo. >```
-deploy -> builda e dá deploy em um projeto javascript que use pnpm
-gitsetup -> inicializa git em diretório, recebe como parâmetro a URL de algum repo remoto, e já faz todo o setup básico de commit inicial
 
+commit -> comita na main com mensagem e recebe mensagem de parametro
+
+createfile -> equivalente a echo. >
+
+deploy -> builda e da deploy em um projeto javascript que use pnpm
+
+gitsetup -> inicializa git em diretorio, recebe como parametro a URL de algum repo remoto, e ja faz todo o setup basico de commit inicial
