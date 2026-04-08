@@ -1,3 +1,4 @@
+
 Guia simplificado de scripts
 
 amend -> commita na main com flag --amend

@@ -1,2 +1,2 @@
 @echo off
-type .\README.md
+type "%~dp0README.md"
