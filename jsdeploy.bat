@@ -1,4 +1,4 @@
 @echo off
 
-pnpm predeploy
-pnpm run deploy
+call pnpm run predeploy
+call pnpm run deploy
