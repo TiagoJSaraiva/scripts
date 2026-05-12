@@ -34,7 +34,7 @@ echo PID......: %PID%
 echo Processo.: %PROCESS_NAME%
 echo.
 
-set /p "CONFIRM=Esse é o processo certo para encerrar? (S/N): "
+set /p "CONFIRM=Esse e o processo certo para encerrar? (S/N): "
 
 if /I "%CONFIRM%"=="S" (
     echo Encerrando processo...
