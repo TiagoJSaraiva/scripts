@@ -11,4 +11,6 @@ supabasedeploy -> da deploy nas edge functions de um projeto supabase
 
 gitsetup -> inicializa git em diretorio, recebe como parametro a URL de algum repo remoto, e ja faz todo o setup basico de commit inicial
 
+endprocess -> recebe uma porta como parâmetro, adquire qual processo esta aberto nela, e pergunta pro usuario se ele deseja deleta-la ou nao
+
 clue -> mostra guia simplificado de scripts
