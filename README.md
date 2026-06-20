@@ -15,3 +15,6 @@ kill -> recebe uma porta como parâmetro, adquire qual processo esta aberto nela
 clue -> mostra guia simplificado de scripts
 
 mspaint -> abre uma imagem no paint (script nativo do windows)
+
+start-mp, stop-mp e logs.mp -> Para o Money printer
+
